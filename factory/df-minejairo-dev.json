@@ -1,0 +1,9 @@
+{
+	"name": "df-minejairo-dev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22eb77fc-1875-45dc-9fb2-a05bf2b919a3",
+		"tenantId": "fabd047c-ff48-492a-8bbb-8f98b9fb9cca"
+	}
+}
