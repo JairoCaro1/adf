@@ -7,6 +7,7 @@
 		},
 		"annotations": [],
 		"type": "DelimitedText",
+		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
